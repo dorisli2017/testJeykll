@@ -7,4 +7,3 @@ filename: gallary
 # Routes
 
 
-# Demos 
