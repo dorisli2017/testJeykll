@@ -30,9 +30,7 @@ Note that in the touring problem it is allowed to visit an edge multiple times, 
 This is the open source project **tour4me**---a touring planning solver developed at the Algorithm Engineering Chair at TU Dortmund.
 Our framework includes four touring algorithms and provides an intuitive web interface to create tours following users specific demands and preferences. 
 In the following demonstration we have included a new exact solver, a heuristic, and two greedy methods. The user can experiment with the algorithms and different profits/costs. The generated tours can be explored in an easy-to-use web interface.
-## Framework
 
-[![framework](UIroute.png)](http://tirolit.cs.tu-dortmund.de/)
 
 
 ## Licence
