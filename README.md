@@ -1,2 +1,2 @@
 # testJeykll
-Learn how to set up customized Jeykll site 
+Learn how to set up customized Jeykll site offline
