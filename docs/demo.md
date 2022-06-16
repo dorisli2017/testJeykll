@@ -8,4 +8,4 @@ filename: demo
 click the figure below to open a youtube link!
 
 
-[![Demo Video]("figs/UIroute.png")](https://www.youtube.com/watch?v=1yXoEF6kSD8)
+[![Demo Video]("docs/figs/UIroute.png")](https://www.youtube.com/watch?v=1yXoEF6kSD8)
