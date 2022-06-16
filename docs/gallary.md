@@ -6,7 +6,7 @@ filename: gallary
 
 # Routes
 
-Solarized dark             |  Solarized Ocean          |  Solarized Ocean
+Greedy            |  ILP         |  Jogger 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](figs/work_25_greedy.png)  |  ![](figs/work_25_jogger.png)|  ![](figs//work_25_ilp_2000.png)
 
