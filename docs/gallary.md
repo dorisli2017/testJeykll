@@ -8,4 +8,4 @@ filename: gallary
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](figs/UIroute.png)  |  ![](figs/UIroute.png)
